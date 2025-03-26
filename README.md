@@ -24,7 +24,7 @@
 🔧 [**Torkix**](https://github.com/mauooricio/torkix)  
 Sistema de gestão e monitoramento veicular. Projeto com foco em controle, desempenho e visualização de dados de frota.
 
-🗡️ [**Jogo de Texto Interativo**](https://github.com/mauooricio/jogo-interativo)  
+🗡️ [**Jogo de Texto Interativo**](https://github.com/mauooricio/aventura-sombria)  
 RPG baseado em escolhas, que une programação e narrativa para criar uma experiência interativa no terminal.
 
 ---
